@@ -7,7 +7,7 @@ const Header = () => {
                 <h1 className='text-secondary' data-aos="fade-up" data-aos-delay="100">من هنا يبدأ</h1>
                 <h2 className='fw-bold' data-aos="fade-up" data-aos-delay="200">المستقبل المبتكر</h2>
                 <div className='gradient'></div>
-                <p className='text-secondary my-5' data-aos="fade-up" data-aos-delay="300">نقـود برؤيـة,ونبنـي بابتـكار نحـو مسـتقبل رقمـي يلبـي طموحـات عمالئنـا</p>
+                <p className='text-secondary my-5' data-aos="fade-up" data-aos-delay="300">نقـود برؤيـة,ونبنـي بابتـكار نحـو مسـتقبل رقمـي يلبـي طموحـات عملائنـا</p>
             </div>
         </div>
     );

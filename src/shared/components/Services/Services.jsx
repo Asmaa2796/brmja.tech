@@ -15,8 +15,8 @@ const Services = () => {
               <div className="service_card shadow-sm s_gradient">
                 <h5 className="text-white fw-bold">العلامة التجارية والهوية</h5>
                 <p className="line-height light-white">
-                  الشعارات، ودالئل الهوية البصرية، وأنظمة الهوية لتأسيس صورة
-                  عالمة تجارية فريدة ومتناسقة.
+                  الشعارات، ودلائل الهوية البصرية، وأنظمة الهوية لتأسيس صورة
+                  علامة تجارية فريدة ومتناسقة.
                 </p>
               </div>
               </Tilt>

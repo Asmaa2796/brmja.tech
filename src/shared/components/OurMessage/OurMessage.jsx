@@ -17,12 +17,12 @@ const OurMessage = () => {
           <div className="col-xl-9 col-lg-9 col-md-12 col-12">
             <div className="p-5 bg-white rounded-4 my-3 shadow-sm">
               <p className="line-height fw-bold my-2" data-aos="fade-up" data-aos-delay="100">
-                نسعى لتحويل أفكار عمالئنا إلى مشاريع رقمية ناجحة تُحدث فرقًا
+                نسعى لتحويل أفكار عملائنا إلى مشاريع رقمية ناجحة تُحدث فرقًا
                 حقيقيًا في السوق، ونوفر حلولاً تقنية مبتكرة تدعم النمو، وتعزز
                 التفاعل، وتبني تجربة مستخدم استثنائية.
               </p>
               <p className="line-height fw-bold my-2" data-aos="fade-up" data-aos-delay="200">
-                نعمل بشغف على ابتكار استراتيجيات رقمية متكاملة تجمع بين اإلبداع
+                نعمل بشغف على ابتكار استراتيجيات رقمية متكاملة تجمع بين الإبداع
                 والتقنية، لنساعدك على تحقيق رؤيتك وتحويلها إلى إنجازات ملموسة.
               </p>
               <p className="line-height fw-bold my-2" data-aos="fade-up" data-aos-delay="300">
