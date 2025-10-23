@@ -112,7 +112,9 @@ a {
 
   .header .gradient,
   .about .gradient,
-  .partner .gradient {
+  .partner .gradient ,
+  .our_vision .gradient
+  {
     width: 200px !important;
   }
 
@@ -143,7 +145,12 @@ a {
     background-size: 85%;
   }
   .why_choose_us .col_card {margin: 0 !important;}
-
+  .btns {
+    text-align: center;
+        display: flex;
+    overflow-x: scroll;
+    white-space: nowrap;
+  }
  
 }
 @media(max-width:1200px) {.our_team ul {display: block !important;}}

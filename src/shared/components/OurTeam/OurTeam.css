@@ -11,6 +11,8 @@
     background-color: #4a4545;
     border: 1px solid rgba(0, 0, 0, .1);
     position: relative;
+    overflow: hidden;
+    margin: 0 4px;
 }
 .our_team ul li img {width: auto;max-height: 300px;margin: auto;display: block;}
 .our_team .team_info {
@@ -22,6 +24,7 @@
     background-color: rgba(0, 0, 0, .3);
     padding-block: 10px;
 }
+.our_team .team_info b:nth-child(2) {text-transform: uppercase;}
 .team_members {margin: 20px 0;}
 .team_members .member_card {
     background-position: center;

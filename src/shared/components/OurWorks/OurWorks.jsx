@@ -18,16 +18,16 @@ const OurWorks = () => {
                     المكتب العالمي الأمني لوزارة الداخلية الليبية
                   </p>
                   <div className="my-2 links">
-                    <a className="link" target="_blank">
-                      <FaGlobe />
-                    </a>
-                    <a className="link" target="_blank">
-                      <BsApple />
-                    </a>
-                    <a className="link" target="_blank">
-                      <BsAndroid2 />
-                    </a>
-                  </div>
+                  <a className="link" target="_blank" rel="noreferrer" style={{borderColor:"#777"}}>
+                    <FaGlobe style={{color:"#777"}} />
+                  </a>
+                  <a className="link" target="_blank" rel="noreferrer" style={{borderColor:"#000"}}>
+                    <BsApple style={{color:"#000"}} />
+                  </a>
+                  <a className="link" target="_blank" rel="noreferrer" style={{borderColor:"forestgreen"}}>
+                    <BsAndroid2 style={{color:"forestgreen"}} />
+                  </a>
+                </div>
                 </div>
               </Tilt>
             </div>
@@ -37,16 +37,16 @@ const OurWorks = () => {
                   <img src="/works/3.png" alt="" />
                   <p className="line-height fw-bold">Blue Bird International</p>
                   <div className="my-2 links">
-                    <a className="link" target="_blank">
-                      <FaGlobe />
-                    </a>
-                    <a className="link" target="_blank">
-                      <BsApple />
-                    </a>
-                    <a className="link" target="_blank">
-                      <BsAndroid2 />
-                    </a>
-                  </div>
+                  <a className="link" target="_blank" rel="noreferrer" style={{borderColor:"#777"}}>
+                    <FaGlobe style={{color:"#777"}} />
+                  </a>
+                  <a className="link" target="_blank" rel="noreferrer" style={{borderColor:"#000"}}>
+                    <BsApple style={{color:"#000"}} />
+                  </a>
+                  <a className="link" target="_blank" rel="noreferrer" style={{borderColor:"forestgreen"}}>
+                    <BsAndroid2 style={{color:"forestgreen"}} />
+                  </a>
+                </div>
                 </div>
               </Tilt>
             </div>
@@ -58,16 +58,16 @@ const OurWorks = () => {
                     أكاديمية علمني التعليمية - 3almny Academy
                   </p>
                   <div className="my-2 links">
-                    <a className="link" target="_blank">
-                      <FaGlobe />
-                    </a>
-                    <a className="link" target="_blank">
-                      <BsApple />
-                    </a>
-                    <a className="link" target="_blank">
-                      <BsAndroid2 />
-                    </a>
-                  </div>
+                  <a className="link" target="_blank" rel="noreferrer" style={{borderColor:"#777"}}>
+                    <FaGlobe style={{color:"#777"}} />
+                  </a>
+                  <a className="link" target="_blank" rel="noreferrer" style={{borderColor:"#000"}}>
+                    <BsApple style={{color:"#000"}} />
+                  </a>
+                  <a className="link" target="_blank" rel="noreferrer" style={{borderColor:"forestgreen"}}>
+                    <BsAndroid2 style={{color:"forestgreen"}} />
+                  </a>
+                </div>
                 </div>
               </Tilt>
             </div>

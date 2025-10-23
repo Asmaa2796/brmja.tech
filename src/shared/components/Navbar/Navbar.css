@@ -7,8 +7,7 @@
 }
 
 .contact {
-    background: #FE6006;
-    background: linear-gradient(287deg, rgba(254, 96, 6, 1) 0%, rgba(240, 19, 150, 1) 50%, rgba(136, 6, 228, 1) 100%);
+    background: var(--gradient);
     border-radius: 50px;
     padding: 12px 25px 10px 25px;
     font-size: 15px;

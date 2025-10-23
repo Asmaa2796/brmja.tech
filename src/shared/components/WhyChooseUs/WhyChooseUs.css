@@ -11,14 +11,21 @@
 }
 .why_choose_us .col_card p {margin-top: 20px;}
 .why_choose_us .col_card:nth-child(1) {
-    background-color: #fe6406;
+    background-color: #151515;
 }
 .why_choose_us .col_card:nth-child(2) {
-    background-color: #f20f7f;
+    background-color: #222122;
 }
 .why_choose_us .col_card:nth-child(3) {
-    background-color: #a40cde;
+    background-color: #151515;
 }
 .why_choose_us .col_card:nth-child(4) {
-    background-color: #7902e7;
+    background-color: #222122;
+}
+.why_choose_us .col_card .gradient {
+    background: var(--gradient);
+    height: 30px;
+    width: 30px;
+    border-radius: 50%;
+    margin: 20px 0;
 }

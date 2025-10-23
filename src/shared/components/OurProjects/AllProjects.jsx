@@ -3,7 +3,6 @@ import "./OurProjects.css";
 import { FaGlobe } from "react-icons/fa";
 import { BsApple } from "react-icons/bs";
 import { BsAndroid2 } from "react-icons/bs";
-import Tilt from 'react-parallax-tilt';
 const AllProjects = () => {
   return (
     <>
@@ -19,14 +18,14 @@ const AllProjects = () => {
                 </div>
                 <hr className="mx-2"/>
                 <div className="my-2 project_links">
-                  <a className="link" target="_blank">
-                    <FaGlobe />
+                  <a className="link" target="_blank" rel="noreferrer" style={{borderColor:"#777"}}>
+                    <FaGlobe style={{color:"#777"}} />
                   </a>
-                  <a className="link" target="_blank">
-                    <BsApple />
+                  <a className="link" target="_blank" rel="noreferrer" style={{borderColor:"#000"}}>
+                    <BsApple style={{color:"#000"}} />
                   </a>
-                  <a className="link" target="_blank">
-                    <BsAndroid2 />
+                  <a className="link" target="_blank" rel="noreferrer" style={{borderColor:"forestgreen"}}>
+                    <BsAndroid2 style={{color:"forestgreen"}} />
                   </a>
                 </div>
               </div>
@@ -38,14 +37,14 @@ const AllProjects = () => {
                 </div>
                 <hr className="mx-2"/>
                 <div className="my-2 project_links">
-                  <a className="link" target="_blank">
-                    <FaGlobe />
+                  <a className="link" target="_blank" rel="noreferrer" style={{borderColor:"#777"}}>
+                    <FaGlobe style={{color:"#777"}} />
                   </a>
-                  <a className="link" target="_blank">
-                    <BsApple />
+                  <a className="link" target="_blank" rel="noreferrer" style={{borderColor:"#000"}}>
+                    <BsApple style={{color:"#000"}} />
                   </a>
-                  <a className="link" target="_blank">
-                    <BsAndroid2 />
+                  <a className="link" target="_blank" rel="noreferrer" style={{borderColor:"forestgreen"}}>
+                    <BsAndroid2 style={{color:"forestgreen"}} />
                   </a>
                 </div>
               </div>
@@ -57,14 +56,14 @@ const AllProjects = () => {
                 </div>
                 <hr className="mx-2"/>
                 <div className="my-2 project_links">
-                  <a className="link" target="_blank">
-                    <FaGlobe />
+                  <a className="link" target="_blank" rel="noreferrer" style={{borderColor:"#777"}}>
+                    <FaGlobe style={{color:"#777"}} />
                   </a>
-                  <a className="link" target="_blank">
-                    <BsApple />
+                  <a className="link" target="_blank" rel="noreferrer" style={{borderColor:"#000"}}>
+                    <BsApple style={{color:"#000"}} />
                   </a>
-                  <a className="link" target="_blank">
-                    <BsAndroid2 />
+                  <a className="link" target="_blank" rel="noreferrer" style={{borderColor:"forestgreen"}}>
+                    <BsAndroid2 style={{color:"forestgreen"}} />
                   </a>
                 </div>
               </div>
@@ -76,14 +75,14 @@ const AllProjects = () => {
                 </div>
                 <hr className="mx-2"/>
                 <div className="my-2 project_links">
-                  <a className="link" target="_blank">
-                    <FaGlobe />
+                  <a className="link" target="_blank" rel="noreferrer" style={{borderColor:"#777"}}>
+                    <FaGlobe style={{color:"#777"}} />
                   </a>
-                  <a className="link" target="_blank">
-                    <BsApple />
+                  <a className="link" target="_blank" rel="noreferrer" style={{borderColor:"#000"}}>
+                    <BsApple style={{color:"#000"}} />
                   </a>
-                  <a className="link" target="_blank">
-                    <BsAndroid2 />
+                  <a className="link" target="_blank" rel="noreferrer" style={{borderColor:"forestgreen"}}>
+                    <BsAndroid2 style={{color:"forestgreen"}} />
                   </a>
                 </div>
               </div>
@@ -94,15 +93,15 @@ const AllProjects = () => {
                   <img src="/projects/9.png" alt="--" />
                 </div>
                 <hr className="mx-2"/>
-                <div className="my-2 project_links">
-                  <a className="link" target="_blank">
-                    <FaGlobe />
+               <div className="my-2 project_links">
+                  <a className="link" target="_blank" rel="noreferrer" style={{borderColor:"#777"}}>
+                    <FaGlobe style={{color:"#777"}} />
                   </a>
-                  <a className="link" target="_blank">
-                    <BsApple />
+                  <a className="link" target="_blank" rel="noreferrer" style={{borderColor:"#000"}}>
+                    <BsApple style={{color:"#000"}} />
                   </a>
-                  <a className="link" target="_blank">
-                    <BsAndroid2 />
+                  <a className="link" target="_blank" rel="noreferrer" style={{borderColor:"forestgreen"}}>
+                    <BsAndroid2 style={{color:"forestgreen"}} />
                   </a>
                 </div>
               </div>
@@ -114,14 +113,14 @@ const AllProjects = () => {
                 </div>
                 <hr className="mx-2"/>
                 <div className="my-2 project_links">
-                  <a className="link" target="_blank">
-                    <FaGlobe />
+                  <a className="link" target="_blank" rel="noreferrer" style={{borderColor:"#777"}}>
+                    <FaGlobe style={{color:"#777"}} />
                   </a>
-                  <a className="link" target="_blank">
-                    <BsApple />
+                  <a className="link" target="_blank" rel="noreferrer" style={{borderColor:"#000"}}>
+                    <BsApple style={{color:"#000"}} />
                   </a>
-                  <a className="link" target="_blank">
-                    <BsAndroid2 />
+                  <a className="link" target="_blank" rel="noreferrer" style={{borderColor:"forestgreen"}}>
+                    <BsAndroid2 style={{color:"forestgreen"}} />
                   </a>
                 </div>
               </div>
@@ -133,14 +132,14 @@ const AllProjects = () => {
                 </div>
                 <hr className="mx-2"/>
                 <div className="my-2 project_links">
-                  <a className="link" target="_blank">
-                    <FaGlobe />
+                  <a className="link" target="_blank" rel="noreferrer" style={{borderColor:"#777"}}>
+                    <FaGlobe style={{color:"#777"}} />
                   </a>
-                  <a className="link" target="_blank">
-                    <BsApple />
+                  <a className="link" target="_blank" rel="noreferrer" style={{borderColor:"#000"}}>
+                    <BsApple style={{color:"#000"}} />
                   </a>
-                  <a className="link" target="_blank">
-                    <BsAndroid2 />
+                  <a className="link" target="_blank" rel="noreferrer" style={{borderColor:"forestgreen"}}>
+                    <BsAndroid2 style={{color:"forestgreen"}} />
                   </a>
                 </div>
               </div>
@@ -152,14 +151,14 @@ const AllProjects = () => {
                 </div>
                 <hr className="mx-2"/>
                 <div className="my-2 project_links">
-                  <a className="link" target="_blank">
-                    <FaGlobe />
+                  <a className="link" target="_blank" rel="noreferrer" style={{borderColor:"#777"}}>
+                    <FaGlobe style={{color:"#777"}} />
                   </a>
-                  <a className="link" target="_blank">
-                    <BsApple />
+                  <a className="link" target="_blank" rel="noreferrer" style={{borderColor:"#000"}}>
+                    <BsApple style={{color:"#000"}} />
                   </a>
-                  <a className="link" target="_blank">
-                    <BsAndroid2 />
+                  <a className="link" target="_blank" rel="noreferrer" style={{borderColor:"forestgreen"}}>
+                    <BsAndroid2 style={{color:"forestgreen"}} />
                   </a>
                 </div>
               </div>
