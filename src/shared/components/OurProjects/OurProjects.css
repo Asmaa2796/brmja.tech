@@ -1,0 +1,51 @@
+.our_projects {padding: var(--pd-60);background-color: var(--div-bg);}
+.our_projects h1,.our_projects h2 {font-size: 44px;}
+.our_projects .slider_image {
+    border-radius: 15px;
+    background-color: var(--basic-color);
+}
+.our_projects .slider_image img {
+    width: auto;
+    max-height: 165px;
+    display: block;
+    border-radius: 15px;
+    margin: auto;
+}
+.our_projects .swiper-button-next,
+.our_projects .swiper-button-prev {
+    background: var(--gradient);
+    color: var(--basic-color);
+    font-size: 20px;
+    height: 50px;
+    width: 50px;
+    border-radius: 50%;
+}
+.our_projects .swiper-button-next svg,
+.our_projects .swiper-button-prev svg {width: 11px;}
+.our_projects .all_projects {
+    background: var(--gradient);
+    padding: 14px 40px;
+    border-radius: 45px;
+    display: inline-block;
+    margin: 20px 0;
+    color: var(--basic-color);
+}
+.project_links {
+    display: flex;
+    justify-content: center;
+}
+.project_links .link {
+    background: var(--gradient);
+    border-radius: 10px;
+    padding: 8px;
+    color: var(--basic-color);
+    text-align: center;
+    height: 40px;
+    width: 40px;
+    margin: 3px 3px 10px 3px;
+    box-shadow: 0px 0px 6px 0px rgba(0, 0, 0, .2);
+}
+.project_card img {width: 100%;}
+.project_card {
+    overflow: hidden;
+}

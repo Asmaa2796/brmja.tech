@@ -1,0 +1,25 @@
+.navbar {padding: 20px 0px;}
+.navbar-brand img {width: auto;max-width: 220px;}
+.navbar .nav-link {
+    font-weight: bold;
+    margin: 0px 4px;
+    font-size: 15px;
+}
+
+.contact {
+    background: #FE6006;
+    background: linear-gradient(287deg, rgba(254, 96, 6, 1) 0%, rgba(240, 19, 150, 1) 50%, rgba(136, 6, 228, 1) 100%);
+    border-radius: 50px;
+    padding: 12px 25px 10px 25px;
+    font-size: 15px;
+    font-weight: bold;
+    color: var(--basic-color);
+    cursor: pointer;
+}
+
+.navbar .navbar-toggler:focus {
+    outline: unset !important;
+    box-shadow: unset !important;
+    border-width: 1px !important;
+    border-color: #ddd !important;
+}

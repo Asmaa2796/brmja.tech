@@ -1,0 +1,24 @@
+.why_choose_us {
+    background-color: #272727;
+    padding-block: 50px 0px;
+    overflow: hidden;
+}
+.why_choose_us h1,.why_choose_us h2 {font-size: 44px;}
+.why_choose_us .col_card {
+    padding: 40px;
+    text-align: right;
+    margin-block:20px ;
+}
+.why_choose_us .col_card p {margin-top: 20px;}
+.why_choose_us .col_card:nth-child(1) {
+    background-color: #fe6406;
+}
+.why_choose_us .col_card:nth-child(2) {
+    background-color: #f20f7f;
+}
+.why_choose_us .col_card:nth-child(3) {
+    background-color: #a40cde;
+}
+.why_choose_us .col_card:nth-child(4) {
+    background-color: #7902e7;
+}

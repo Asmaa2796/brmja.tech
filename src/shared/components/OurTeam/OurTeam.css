@@ -1,0 +1,35 @@
+.our_team {
+    background-color: #272727;
+    padding: var(--pd-60);
+}
+.our_team ul {
+    display: flex;
+    justify-content: end;
+    margin-bottom: 0;
+}
+.our_team ul li {
+    background-color: #4a4545;
+    border: 1px solid rgba(0, 0, 0, .1);
+    position: relative;
+}
+.our_team ul li img {width: auto;max-height: 300px;margin: auto;display: block;}
+.our_team .team_info {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    text-align: center;
+    background-color: rgba(0, 0, 0, .3);
+    padding-block: 10px;
+}
+.team_members {margin: 20px 0;}
+.team_members .member_card {
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 200px;
+    width: 100%;
+    margin: 10px 0;
+    position: relative;
+    background-color: #4a4545;
+}

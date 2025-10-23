@@ -1,0 +1,10 @@
+.header {background-color: var(--div-bg);padding: var(--pd-60);}
+.header .gradient {
+    background: var(--gradient);
+    border-radius: 25px;
+    margin: 30px auto;
+    height: 40px;
+    width: 400px;
+}
+.header h1,.header h2 {font-size: 44px;}
+.header p {font-size: 24px;}

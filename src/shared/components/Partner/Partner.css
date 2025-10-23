@@ -1,0 +1,12 @@
+.partner {padding: var(--pd-60);background-color: #272727;}
+
+.partner h1,.partner h2 {font-size: 44px;}
+.partner .gradient {
+    background: #FE6006;
+    background: linear-gradient(287deg, rgba(254, 96, 6, 1) 0%, rgba(240, 19, 150, 1) 50%, rgba(136, 6, 228, 1) 100%);
+    border-radius: 25px;
+    margin: 30px auto;
+    height: 20px;
+    width: 400px;
+}
+.partner p {color: var(--light-white);}

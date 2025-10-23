@@ -1,0 +1,14 @@
+.contact_us {
+    background-color: var(--div-bg);
+    padding: var(--pd-60);
+}
+.contact_us ul {width: 350px;margin: auto;}
+.contact_us ul li {
+    border-radius: 25px;
+    background-color: var(--basic-color);
+    padding: 10px 20px;
+    margin: 10px 0;
+    display: block;
+}
+.contact_us ul li a {display: flex;align-items: center;}
+.contact_us ul li img {width: auto;max-height: 30px;margin: 0px 10px;}

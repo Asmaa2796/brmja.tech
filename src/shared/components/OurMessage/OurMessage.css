@@ -1,0 +1,9 @@
+.our_message {padding: var(--pd-60);background-color: var(--div-bg);}
+.our_message .gradient {
+    height: 20px;
+    width: 100px;
+    border-radius: 25px;
+    margin: 20px auto;
+    background: #FE6006;
+    background: linear-gradient(287deg, rgba(254, 96, 6, 1) 0%, rgba(240, 19, 150, 1) 50%, rgba(136, 6, 228, 1) 100%);
+}

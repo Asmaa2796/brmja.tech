@@ -1,0 +1,149 @@
+:root {
+  --main-color: #fe6e03;
+  --sub-color: #fe091a;
+  --basic-color: #fff;
+  --div-bg: #efefef;
+  --light-white: #ffffffac;
+  --pd-60: 60px 0;
+   --gradient: linear-gradient(90deg, #fe091a 0%, #fe6e03 100%);
+}
+
+@font-face {
+  font-family: 'taleeq';
+  src: url('../src/alfont_com_طليق-1.ttf') format('truetype');
+  font-display: swap;
+}
+
+::selection {
+  background-color: var(--main-color);
+  color: var(--basic-color);
+}
+
+body::-webkit-scrollbar {
+  width: 10px;
+}
+
+body::-webkit-scrollbar-track {
+  background: var(--basic-color);
+}
+
+body::-webkit-scrollbar-thumb {
+  background-color: #ccc;
+  border-radius: 20px;
+  border: 1px solid #ddd;
+}
+
+body {
+  margin: 0;
+  font-family: "taleeq", sans-serif !important;
+  position: relative;
+  direction: rtl;
+  text-align: right !important;
+  background-color: var(--body-color) !important;
+}
+
+button,
+a {
+  cursor: pointer;
+}
+
+button:focus,
+a:focus {
+  outline: none;
+}
+
+button:active,
+button:focus-visible,
+button:focus-within,
+button:focus,
+button:target {
+  border: none;
+}
+
+a {
+  text-decoration: none !important;
+}
+
+.text-color {
+  color: var(--text-color) !important;
+}
+.main-color {
+  color: var(--main-color) !important;
+}
+.light-white {
+  color: var(--light-white);
+}
+
+.sub-text {
+  color: var(--sub-color) !important;
+}
+
+.text-lighter {
+  color: var(--text-lighter) !important;
+}
+
+.border-lighter {border: 1px solid #ffffff1f !important;}
+.text-lg {
+  font-size: large;
+}
+
+.text-md {
+  font-size: medium;
+}
+
+.text-sm {
+  font-size: small;
+}
+
+.text-xs {
+  font-size: x-small;
+}
+.text-custom {font-size: 12px;font-weight: bold;}
+.line-height {
+  line-height: 1.7em;
+}
+
+.b25 {
+  border-radius: 25px !important;
+}
+.div-bg {background-color: var(--basic-color);}
+
+@media(max-width:567px) {
+
+  .header .gradient,
+  .about .gradient,
+  .partner .gradient {
+    width: 200px !important;
+  }
+
+  .our_team .logo {
+    width: 220px !important;
+  }
+
+  .team_members .member_card {
+    background-position: top;
+  }
+
+  .partner h1 {
+    font-size: 22px !important;
+  }
+
+  .contact_us ul {
+    width: auto !important;
+  }
+
+  .navbar-brand img {
+    width: 150px !important;
+    max-width: 150px !important;
+  }
+
+  .navbar .navbar-toggler-icon {
+    width: 1em;
+    height: 1em;
+    background-size: 85%;
+  }
+  .why_choose_us .col_card {margin: 0 !important;}
+
+ 
+}
+@media(max-width:1200px) {.our_team ul {display: block !important;}}

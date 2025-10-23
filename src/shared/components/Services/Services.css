@@ -1,0 +1,24 @@
+.services {
+    background-color: var(--div-bg);
+    padding: var(--pd-60);
+}
+.services h1,.services h2 {font-size: 44px;}
+.services .service_card {
+    padding: 20px 30px;
+    margin: 20px 0;
+    background-color: var(--basic-color);
+    border-radius: 15px;
+    height: 270px;
+}
+.services .s_gradient {background: var(--gradient);}
+.service_card .gradient {
+    background: var(--gradient);
+    height: 30px;
+    width: 30px;
+    border-radius: 50%;
+    margin: 20px 0;
+}
+.s_gradient h5 {margin-top: 68px;}
+.service_card p {font-size: 14px;}
+.service_card ul {margin-top:20px;}
+.service_card ul li {margin: 6px 0px;font-size: 14px;}
