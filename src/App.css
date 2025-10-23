@@ -121,7 +121,7 @@ a {
   }
 
   .team_members .member_card {
-    background-position: top !important;
+    background-size: 48% !important;
   }
 
   .partner h1 {
