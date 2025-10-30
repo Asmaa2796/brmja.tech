@@ -37,13 +37,15 @@ const OurTeam = () => {
             <br />
             <br />
             <ul className="list-unstyled p-0">
+              
+              
               <Tilt>
                 <li>
-                  <img src="/team/58.png" alt="" />
+                  <img src="/team/59.png" alt="" />
                   <div className="team_info">
-                    <b className="text-white d-block">Moataz Mohamd</b>
+                    <b className="text-white d-block">Sherif watany</b>
                     <b className="text-white d-block main-color text-sm">
-                      CMO, CO-FOUNDER
+                      CEO, CO-FOUNDER
                     </b>
                   </div>
                 </li>
@@ -61,11 +63,11 @@ const OurTeam = () => {
               </Tilt>
               <Tilt>
                 <li>
-                  <img src="/team/59.png" alt="" />
+                  <img src="/team/58.png" alt="" />
                   <div className="team_info">
-                    <b className="text-white d-block">Sherif watany</b>
+                    <b className="text-white d-block">Moataz Mohamd</b>
                     <b className="text-white d-block main-color text-sm">
-                      CEO, CO-FOUNDER
+                      CMO, CO-FOUNDER
                     </b>
                   </div>
                 </li>
